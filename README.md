@@ -3,6 +3,8 @@ Treadmill Ball Grinders
 
 **In progress: versioned documentation for ease of sharing.**
 
+## Spherical Treadmill Fabrication
+
 ### Materials
 ![materials](media/materials.png)
 * Foam - FR-4615 from General plastics
@@ -19,7 +21,7 @@ Treadmill Ball Grinders
 * Wearing gloves can be helpful to avoid pressing oils from your fingers into the ball, which make the ball harder to grind.
 * Wear a face mask to avoid breathing in the dust as you grind, and wipe up excess foam afterwards.
 
-### Steps
+### Fabrication Steps
 1. **Cut a cube foam starting matrial.** Cut a cube (carefully) of the FR-4615 foam that is around ~11mm on each side using a razor blade.
 	* It can be helpful to mark out the edges with a fine-tipped marker first, then cut into them (the marks will be ground away before the end).
 1. **Trim the cube of foam.** Using the razor blade, trim down the sharp edges and corners of the cube to make it more spherical (e.g. the way you might peel a grapefruit's skin). 
@@ -47,4 +49,15 @@ Treadmill Ball Grinders
 	* Sharpie will also work for marking the ball but will have much less contrast under IR compared to the black paint. 
 	* NOTE: if you grind the ball down after applying the markings, you will smear them and reduce the contrast.
 
+## Grinders
+
+![coarse](media/coarse_with_ball.png)
+
+![fine](media/fine_with_ball.png)
+
+### Grinder Fabrication
+
+There are two components to be machined, a 'fine' and 'coarse' grinder. They were made to be CNC machined with a lathe. So far they have been outsourced to Protolabs with good results. Using Aluminum 6061-T651 with "Edges broken (tool marks visible)” works well.
+
+It is possible they’d work as 3D printed plastic (at reduced cost) but this has not yet been tested.
 
