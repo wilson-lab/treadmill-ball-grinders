@@ -4,6 +4,7 @@ Treadmill Ball Grinders
 **In progress: versioned documentation for ease of sharing.**
 
 ### Materials
+![materials](media/materials.png)
 * Foam - FR-4615 from General plastics
 * Razor blade
 * 'Coarse' and 'fine' foam sphere grinders
@@ -19,9 +20,10 @@ Treadmill Ball Grinders
 * Wear a face mask to avoid breathing in the dust as you grind, and wipe up excess foam afterwards.
 
 ### Steps
-1. **Cut a cube foam starting matrial.** Cut a cube (carefully) of the FR-4615 foam that is around ~11mm on each side using a razor blade. It can be helpful to mark out the edges with a fine-tipped marker. 
+1. **Cut a cube foam starting matrial.** Cut a cube (carefully) of the FR-4615 foam that is around ~11mm on each side using a razor blade.
+	* It can be helpful to mark out the edges with a fine-tipped marker first, then cut into them (the marks will be ground away before the end).
 1. **Trim the cube of foam.** Using the razor blade, trim down the sharp edges and corners of the cube to make it more spherical (e.g. the way you might peel a grapefruit's skin). 
-	* NOTE: Doing more of this trimming into a spherical shape here will make the next step easier. You should get a sense for it as you try the next step if you’ve done enough.
+	* Doing more of this trimming into a spherical shape here will make the next step easier. You should get a sense for it as you try the next step if you’ve done enough.
 1. **Begin grinding the trimmed cube.** Place the trimmed material into the coarse (bigger) grinder that has a diameter of ~11.5 mm and start grinding down the cube. To do this:
 	* Place the ball in the “cup" of the grinder and then grind it down by rolling it “away” from you with your thumb and forefinger. Apply enough force for the grooves in the cup to cut away the edges of the ball.
 	* The initial grinds as the cube molds into a sphere require more force, and you will notice big chunks chipping off the foam.
